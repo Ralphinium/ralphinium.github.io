@@ -1,0 +1,48 @@
+.ship-box{
+    background:
+        linear-gradient(to left, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.8) 600px),
+        url("../img/TakaoSchool-head.png") right no-repeat;
+}
+
+.equip-box{
+    background:
+        linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.8) 600px),
+        url("../img/equip.png") left no-repeat;
+}
+
+.en-box{
+    background:
+        linear-gradient(to left, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.8) 600px),
+        url("../img/Enterprise-head.png") right no-repeat;
+}
+
+.wiki-box{
+    background:
+        linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.8) 600px),
+        url("../img/Akashi-head.png") left no-repeat;
+}
+
+.jp-wiki-box{
+    background:
+        linear-gradient(to left, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.8) 600px),
+        url("../img/SaratogaSummer-head.png") right no-repeat;
+}
+
+.aa-box{
+    background:
+        linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.8) 600px),
+        url("../img/16400.png") left no-repeat;
+}
+
+.link-box{
+    background-color: rgba(0, 0, 0, 0)
+}
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row.display-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
