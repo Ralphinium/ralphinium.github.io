@@ -1,0 +1,147 @@
+[
+  {
+    "class": "DD",
+    "tiers": [
+      {
+        "tier": "0",
+        "ships": ["Laffey (k)", "Ayanami (k)", "Yukikaze", "Z23 (k)"]
+      },
+      {
+        "tier": "1",
+        "ships": ["Nicholas (k)", "Yuudachi", "Kawakaze", "Kagerou (k)", "Shiranui (k)", "Z46", "Le Triomphant", "Z35 + Z1"]
+      },
+      {
+        "tier": "1.5",
+        "ships": ["Javelin (k)", "Fubuki", "Takikaze (k)", "Kuroshio", "Oyashio", "Z25", "Z35"]
+      },
+      {
+        "tier": "2",
+        "ships": ["Eldridge", "Charles Ausburne", "Maury", "Cassin (k)", "Downes (k)", "Ardent (k)", "Yoizuki", "Haruzuki", "Shigure", "Z1"]
+      },
+      {
+        "tier": "teams",
+        "ships": ["Anshan+Changchun+Fushun+Taiyan", "Crescent (k)+Comet (k)+Cygnet (k)", "Forbin (k)+Le Mars"]
+      },
+      {
+        "tier": "Honorable Mention",
+        "ships": ["Fletcher", "Acasta (k)", "Shiranui"]
+      }
+    ]
+  },
+  {
+    "class": "CL",
+    "tiers": [
+      {
+        "tier": "0",
+        "ships": ["Jintsuu (k)"]
+      },
+      {
+        "tier": "1",
+        "ships": ["Phoenix", "Montpelier", "St. Louis", "Belfast", "Belchan", "Edinburgh", "Leander (k)"]
+      },
+      {
+        "tier": "1.5",
+        "ships": ["Cleveland", "Helena", "Columbia", "Ajax (k)", "Achilles (k)", "Sheffield", "Abukuma (k)", "Sendai (k)"]
+      },
+      {
+        "tier": "2",
+        "ships": ["Brooklyn", "Denver", "Honolulu", "Aurora", "Agano", "Leipzig", "Emile Bertin"]
+      },
+      {
+        "tier": "Honorable Mention",
+        "ships": ["Juneau", "San Diego", "Avrora"]
+      },
+      {
+        "tier": "teams",
+        "ships": ["Ping Hai (k)+Ning Hai (k)+Yat Sen"]
+      }
+    ]
+  },
+  {
+    "class": "CA",
+    "tiers": [
+      {
+        "tier": "0",
+        "ships": ["Portland (k)", "Mogami (k)"]
+      },
+      {
+        "tier": "1",
+        "ships": ["Wichita", "Choukai"]
+      },
+      {
+        "tier": "1.5",
+        "ships": ["Astoria", "Chicago", "Houston", "Quincy", "Vincennes", "Suffolk (k)", "Atago", "Takao", "Maya", "Furutaka (k)", "Kako (k)", "Deustchland", "Graf Spee"]
+      },
+      {
+        "tier": "2",
+        "ships": ["Indianapolis", "Northampton", "Admiral Hipper"]
+      },
+      {
+        "tier": "teams",
+        "ships": []
+      },
+      {
+        "tier": "Honorable Mention",
+        "ships": ["London", "Prinz Eugen"]
+      }
+    ]
+  },
+  {
+    "class": "BB/BC",
+    "tiers": [
+      {
+        "tier": "0",
+        "ships": ["Hood", "Duke of York", "Jean Bart"]
+      },
+      {
+        "tier": "1",
+        "ships": ["Hyuuga", "Nagato", "Tirpitz"]
+      },
+      {
+        "tier": "1.5",
+        "ships": ["Arizona", "Massachussets", "Oklahoma (k)", "Nevada (k)", "South Dakota", "Queen Elizabeth", "Kirishima", "Haruna", "Kongou", "Yamashiro (k)", "Fusou (k)", "Gneisenau", "Scharnhost"]
+      },
+      {
+        "tier": "2",
+        "ships": ["Abercrombie", "Warspite", "Renown", "Prince of Wales", "Mikasa", "Mutsu", "Dunkerque"]
+      },
+      {
+        "tier": "teams",
+        "ships": []
+      },
+      {
+        "tier": "Honorable Mention",
+        "ships": ["Terror", "Erebus", "Nelson", "Rodney"]
+      }
+    ]
+  },
+  {
+    "class": "CV/CVL",
+    "tiers": [
+      {
+        "tier": "0",
+        "ships": ["Enterprise", "Akagi+Kaga", "Shoukaku+Zuikaku"]
+      },
+      {
+        "tier": "1",
+        "ships": ["Ranger (k)", "Saratoga (k)", "Centaur", "Unicorn", "Shoukaku"]
+      },
+      {
+        "tier": "1.5",
+        "ships": ["Lexington", "Saratoga", "Yorktown", "Ark Royal", "Shouhou (k)", "Zuikaku", "Graf Zeppelin", "Hiryuu+Souryuu"]
+      },
+      {
+        "tier": "2",
+        "ships": ["Bogue", "Illustrious", "Hiryuu", "Souryuu"]
+      },
+      {
+        "tier": "teams",
+        "ships": []
+      },
+      {
+        "tier": "Honorable Mention",
+        "ships": ["Langley (k)"]
+      }
+    ]
+  }
+]
